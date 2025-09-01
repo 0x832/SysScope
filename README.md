@@ -1,6 +1,6 @@
 # SysScope
 
-Este script fue desarrollado en PowerShell con el objetivo de proporcionar información sobre los procesos activos en el sistema y los usuarios, con la capacidad de almacenar dicha información en un archivo de Excel.
+Este script fue desarrollado en PowerShell para windows con el objetivo de proporcionar información sobre los procesos activos en el sistema y los usuarios, con la capacidad de almacenar dicha información en un archivo de Excel.
 
 Su finalidad es ayudar a identificar procesos maliciosos o sospechosos, ofreciendo al usuario un mayor control sobre lo que se ejecuta en el equipo.
 
